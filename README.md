@@ -36,7 +36,7 @@ _Taught by Prof. Setiono, Rudy, AY22/23 Semester 1_
 
 ## CS2030 Programming Methodology II
 
-_Taught by Prof. Chia Wai Kit, Henry_
+_Taught by Prof. Chia Wai Kit, Henry, AY22/23 Semester 1_
 
 ### Concepts Covered
 - [Lecture 11: Asynchronous Programming](cs2030/AsynchronousProgramming.java)
