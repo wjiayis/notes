@@ -34,6 +34,13 @@ _Taught by Prof. Setiono, Rudy, AY22/23 Semester 1_
 - [Lecture 8: Unconstrained Optimization](bt2103/8%20Unconstrained%20Optimization.pdf)
 - [Lecture 9: Constrained Optimization](bt2103/9%20Constrained%20Optimization.pdf)
 
+## CS2030 Programming Methodology II
+
+_Taught by Prof. Chia Wai Kit, Henry_
+
+### Concepts Covered
+- [Lecture 11: Asynchronous Programming](cs2030/AsynchronousProgramming.java)
+
 <div align="right">
     Inspired by <a href="https://github.com/zhuhanming/nus-notes-cheatsheets">nus-notes-cheatsheets</a>
 </div>
