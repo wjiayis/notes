@@ -28,6 +28,9 @@ _Taught by Prof. Setiono, Rudy, AY22/23 Semester 1_
 </p>
 
 ### Concepts Covered
+
+...
+
 - [Lecture 5: Linear Programming - Duality and Graphical Solution](bt2103/5%20Linear%20Programming%20-%20Duality%20and%20Graphical%20Solution.pdf)
 - [Lecture 6: Linear Programming - The Simplex Algorithm](bt2103/6%20Linear%20Programming%20-%20The%20Simplex%20Algorithm.pdf)
 - [Lecture 7: Non-linear Programming - Neural Networks](bt2103/7%20Non-linear%20Programming%20-%20Neural%20Networks.pdf)
@@ -39,7 +42,28 @@ _Taught by Prof. Setiono, Rudy, AY22/23 Semester 1_
 _Taught by Prof. Chia Wai Kit, Henry, AY22/23 Semester 1_
 
 ### Concepts Covered
+
+...
+
 - [Lecture 11: Asynchronous Programming](cs2030/AsynchronousProgramming.java)
+
+## BT4222 Mining Web Data for Business Analytics
+
+_Taught by Prof. Qiao Dandan, AY22/23 Semester 2_
+
+<p align="center">
+    <a href="bt4222/Long Short Term Memory.pdf" target="_blank">
+        <img src="docs/bt4222-img1.jpeg" width="20%" alt="Long Short Term Memory"/>
+    </a>
+</p>
+
+### Concepts Covered
+
+...
+
+- [Long Short Term Memory](bt4222/Long%20Short%20Term%20Memory.pdf)
+
+...
 
 <div align="right">
     Inspired by <a href="https://github.com/zhuhanming/nus-notes-cheatsheets">nus-notes-cheatsheets</a>
